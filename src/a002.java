@@ -1,7 +1,7 @@
 /* ***************************************** */
-/*  Problem: a002 "簡易加法"                  */
+/*  Problem: a002 簡易加法                     */
 /*  Language: JAVA                           */
-/*  Result: AC (0.2s, 1.9MB) on ZeroJudge  */
+/*  Result: AC (0.2s, 1.9MB) on ZeroJudge    */
 /*  Author:陳科融 2022-04-02  */
 /* ***************************************** */
 import java.util.Scanner;
